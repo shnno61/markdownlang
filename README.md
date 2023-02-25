@@ -81,8 +81,8 @@ yarn run start
  }
 ```
 <!--tasklist-->
-* [x] task1
+* [ x ] task1
 
-* [x] task 2
+* [ x ] task 2
 
-* []task 3
+* [ ]task 3
