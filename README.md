@@ -85,4 +85,4 @@ yarn run start
 
 * [x] task 2
 
-* [ ]task 3
+* []task 3
